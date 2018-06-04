@@ -1,0 +1,25 @@
+backend:
+  name: bitbucket
+  branch: master 
+media_folder: "/media"  
+collections:
+  - name: "text" 
+    label: "text" 
+    folder: "content/text" 
+    create: false 
+    delete: false
+    fields:
+      - {label: "Key", name: "title", widget: "string"}
+      - {label: "Português", name: "pt", widget: "markdown"}
+      - {label: "Inglês", name: "en", widget: "markdown"}
+  
+  - name: "term"    
+    label: "term" 
+    folder: "content/term" 
+    create: false
+    delete: false 
+    fields: 
+      - {label: "Key", name: "title", widget: "string"}
+      - {label: "Português", name: "pt", widget: "string"}
+      - {label: "Inglês", name: "en", widget: "string"}
+   
