@@ -1,5 +1,5 @@
 backend:
-  name: bitbucket
+  name: git-gateway
   branch: master 
 media_folder: "/media"  
 collections:
