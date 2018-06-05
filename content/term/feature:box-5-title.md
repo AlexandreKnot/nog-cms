@@ -1,6 +1,6 @@
 ---
 title: 'feature:box-5-title'
-pt: CUSTOM INTEGRATIONS
-en: INTEGRAÇÕES CUSTOMIZADAS
+pt: INTEGRAÇÕES CUSTOMIZADAS
+en: CUSTOM INTEGRATIONS
 ---
 
