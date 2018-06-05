@@ -1,7 +1,6 @@
 ---
 title: 'signup:type'
-pt: >-
-    signup:type
-en: >-
-    signup:type
+pt: Tipo de uso
+en: Kind of use
 ---
+
