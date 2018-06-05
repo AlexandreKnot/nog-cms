@@ -1,7 +1,6 @@
 ---
 title: 'partners:title'
-pt: >-
-    partners:title
-en: >-
-    partners:title
+pt: Clientes
+en: Customers
 ---
+

@@ -1,7 +1,6 @@
 ---
 title: 'signup:phone'
-pt: >-
-    signup:phone
-en: >-
-    signup:phone
+pt: Telefone
+en: Phone
 ---
+
