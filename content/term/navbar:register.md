@@ -1,7 +1,7 @@
 ---
 title: 'navbar:register'
 pt: >-
-    navbar:register
+    Cadastro
 en: >-
-    navbar:register
+    Sign up
 ---

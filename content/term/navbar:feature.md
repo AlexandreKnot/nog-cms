@@ -1,7 +1,7 @@
 ---
 title: 'navbar:feature'
 pt: >-
-    navbar:feature
+    Características
 en: >-
-    navbar:feature
+    Features
 ---
