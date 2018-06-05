@@ -1,6 +1,6 @@
 ---
 title: 'signup:email'
-pt: Email
-en: Email
+pt: E-mail
+en: E-mail
 ---
 
