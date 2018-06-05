@@ -1,6 +1,6 @@
 ---
 title: 'feature:box-8-title'
-pt: UPLOAD YOUR DATA
-en: FAÇA UPLOAD DOS SEUS DADOS
+pt: FAÇA UPLOAD DOS SEUS DADOS
+en: UPLOAD YOUR DATA
 ---
 
