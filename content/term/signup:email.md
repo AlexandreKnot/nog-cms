@@ -1,7 +1,6 @@
 ---
 title: 'signup:email'
-pt: >-
-    signup:email
-en: >-
-    signup:email
+pt: Email
+en: Email
 ---
+
