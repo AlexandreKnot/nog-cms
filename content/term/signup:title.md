@@ -1,7 +1,6 @@
 ---
 title: 'signup:title'
-pt: >-
-    signup:title
-en: >-
-    signup:title
+pt: Cadastre-se
+en: Sign up
 ---
+
