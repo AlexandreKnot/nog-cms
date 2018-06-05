@@ -6,7 +6,7 @@ collections:
   - name: "text" 
     label: "text" 
     folder: "content/text" 
-    create: false 
+    create: true 
     delete: false
     fields:
       - {label: "Key", name: "title", widget: "string"}
@@ -16,7 +16,7 @@ collections:
   - name: "term"    
     label: "term" 
     folder: "content/term" 
-    create: false
+    create: true
     delete: false 
     fields: 
       - {label: "Key", name: "title", widget: "string"}
