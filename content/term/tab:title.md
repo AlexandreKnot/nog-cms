@@ -1,7 +1,6 @@
 ---
 title: 'tab:title'
-pt: >-
-    tab:title
-en: >-
-    tab:title
+pt: Benefícios
+en: Benefits
 ---
+
