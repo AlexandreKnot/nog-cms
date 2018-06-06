@@ -1,7 +1,6 @@
 ---
 title: 'footer:title'
-pt: >-
-    footer:title
-en: >-
-    footer:title
+pt: 'footer:title'
+en: Site map
 ---
+
