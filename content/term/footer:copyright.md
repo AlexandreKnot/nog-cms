@@ -1,6 +1,6 @@
 ---
 title: 'footer:copyright'
-pt: 'footer:copyright'
+pt: '           '
 en: '        '
 ---
 
