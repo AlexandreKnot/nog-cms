@@ -1,6 +1,6 @@
 ---
 title: 'signup:email'
 pt: E-mail
-en: E-mail
+en: Business e-mail
 ---
 
