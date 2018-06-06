@@ -1,7 +1,6 @@
 ---
 title: 'feature:title'
-pt: >-
-    feature:title
-en: >-
-    feature:title
+pt: Funcionalidades
+en: Features
 ---
+
