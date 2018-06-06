@@ -1,7 +1,6 @@
 ---
 title: 'header:text'
-pt: >-
-    header:text
-en: >-
-    header:text
+pt: Não requer programação
+en: No coding required!
 ---
+
