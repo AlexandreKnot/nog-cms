@@ -10,11 +10,11 @@ pt: >-
 
   **Rodrigo Bellato - Geru**
 en: >-
-  "Low code tool that gives greater agility for squads to deliver and the
+  _"Low code tool that gives greater agility for squads to deliver and the
   maintenance of rules that are commonly hard coded, and end up generating a lot
   of work and dependence of the technology team, having to often change the
   priority of the deliveries, losing deadlines and / or requiring extra team
-  effort. "
+  effort. "_
 
 
   **Rodrigo Bellato - Geru**
