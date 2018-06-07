@@ -2,6 +2,11 @@
 title: 'pricing:contact-sales-team'
 pt: 'pricing:contact-sales-team'
 en: >-
+  _\*STARTUP plan is a limited time offer (up to 12 months after signup)_
+
+
+
+
   If you couldn´t find any plan that fits your needs, please
   [contact](mailto:noggers@nogord.io) our sales team. They are ready to help
   you.
