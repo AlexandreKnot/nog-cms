@@ -17,6 +17,6 @@ en: >-
   effort. "
 
 
-  Rodrigo Bellato - Geru
+  **Rodrigo Bellato - Geru**
 ---
 
