@@ -1,6 +1,6 @@
 ---
 title: 'partners:title'
 pt: Clientes
-en: Customers
+en: Several best-in-class companies rely on NOGORD.IO to automate decision rules
 ---
 
