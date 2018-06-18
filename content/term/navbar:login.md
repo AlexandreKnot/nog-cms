@@ -1,7 +1,6 @@
 ---
 title: 'navbar:login'
-pt: >-
-    Login
-en: >-
-    Login
+pt: Login
+en: Login2
 ---
+
