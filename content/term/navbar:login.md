@@ -1,6 +1,6 @@
 ---
 title: 'navbar:login'
 pt: Login
-en: Login55
+en: Login
 ---
 
