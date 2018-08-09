@@ -8,6 +8,7 @@ en: >-
   applications.
 
 
-  Also, Nogord.io's Flowcharts work as "living documentation"
+  Nogord.io's Flowcharts work as "living documentation", reducing communication
+  noise between teams
 ---
 
