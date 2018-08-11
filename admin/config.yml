@@ -22,4 +22,16 @@ collections:
       - {label: "Key", name: "title", widget: "string"}
       - {label: "Português", name: "pt", widget: "string"}
       - {label: "Inglês", name: "en", widget: "string"}
+  
+  - name: "detail"    
+    label: "detail" 
+    folder: "content/detail" 
+    create: true
+    delete: false 
+    fields: 
+      - {label: "Key", name: "kay", widget: "string"}
+      - {label: "Titulo português", name: "pt:title", widget: "string"}
+      - {label: "Titulo inglês", name: "en:title", widget: "string"}
+      - {label: "Texto português", name: "pt:text", widget: "markdown"}
+      - {label: "Texto inglês", name: "en:text", widget: "markdown"}
    
