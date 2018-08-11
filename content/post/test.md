@@ -1,6 +1,6 @@
 ---
 title: test
-vertical: insurance
+type: insurance
 'pt:name': teste
 'en:name': test
 'pt:text': teste teste
