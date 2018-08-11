@@ -30,7 +30,7 @@ collections:
     delete: false 
     fields: 
       - {label: "Key", name: "title", widget: "string"}
-      - {label: "Vertical key", name: "vertical", widget: "string"}
+      - {label: "type", name: "type", widget: "string"}
       - {label: "Titulo português", name: "pt:name", widget: "string"}
       - {label: "Titulo inglês", name: "en:name", widget: "string"}
       - {label: "Texto português", name: "pt:text", widget: "markdown"}
