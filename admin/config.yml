@@ -23,9 +23,9 @@ collections:
       - {label: "Português", name: "pt", widget: "string"}
       - {label: "Inglês", name: "en", widget: "string"}
   
-  - name: "detail"    
-    label: "detail" 
-    folder: "content/detail" 
+  - name: "post"    
+    label: "post" 
+    folder: "content/post" 
     create: true
     delete: false 
     fields: 
