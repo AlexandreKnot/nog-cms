@@ -29,7 +29,7 @@ collections:
     create: true
     delete: false 
     fields: 
-      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Key", name: "title", widget: "string"}
       - {label: "Tipo", name: "type", widget: "string"}
       - {label: "Imagem", name: "image", widget: "image"}
       - {label: "Título português", name: "pt:name", widget: "string"}
