@@ -1,7 +1,6 @@
 ---
-title: 'back'
-pt: >-
-    back
-en: >-
-    back
+title: back
+pt: Voltar
+en: Back
 ---
+
