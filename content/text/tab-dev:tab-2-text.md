@@ -6,7 +6,7 @@ en: >-
   Every Rule has its own URL. Use it as a REST API. 
 
 
-  Once developed, publish it with a 1-click button. No need for complex cli.
+  Once developed, publish it with a 1-click button. No need for complex CLI.
   Evolve it by creating and publishing new versions.
 
 
