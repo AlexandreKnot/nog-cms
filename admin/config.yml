@@ -34,6 +34,8 @@ collections:
       - {label: "Imagem", name: "image", widget: "image"}
       - {label: "Título português", name: "pt:name", widget: "string"}
       - {label: "Título inglês", name: "en:name", widget: "string"}
+      - {label: "Texto português", name: "pt:summary", widget: "markdown"}
+      - {label: "Texto inglês", name: "en:summary", widget: "markdown"}
       - {label: "Texto português", name: "pt:text", widget: "markdown"}
       - {label: "Texto inglês", name: "en:text", widget: "markdown"}
    
