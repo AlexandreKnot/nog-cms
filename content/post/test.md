@@ -1,6 +1,6 @@
 ---
 title: Prevenção a fraudes
-type: Prevenção a fraudes
+type: financial
 image: /media/external-integrations.png
 'pt:name': Prevenção a fraudes
 'en:name': Prevenção a fraudes
