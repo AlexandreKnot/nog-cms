@@ -4,6 +4,8 @@ type: financial
 image: /media/external-integrations.png
 'pt:name': Originação de crédito
 'en:name': Credit Origination
+'pt:summary': Escreva aqui
+'en:summary': Write here
 'pt:text': >-
   Existe melhor oportunidade de encantar o seu cliente do que no 1º contato?
   Implantando as suas regras de originação de crédito com NOGORD.IO, é possível
