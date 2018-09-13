@@ -1,6 +1,6 @@
 ---
 title: Cobrança e renegociação
-type: Cobrança e renegociação
+type: financial
 image: /media/régua-de-cobrança.png
 'pt:name': Cobrança e renegociação
 'en:name': Cobrança e renegociação
