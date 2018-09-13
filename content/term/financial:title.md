@@ -1,7 +1,6 @@
 ---
 title: 'financial:title'
-pt: >-
-    financial:title
-en: >-
-    financial:title
+pt: Indústria financeira
+en: Financial industry
 ---
+
