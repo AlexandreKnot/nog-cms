@@ -3,7 +3,7 @@ title: Concessão / manutenção de limites pré-aprovados PF
 type: financial
 image: /media/concessão-de-limites-pf.png
 'pt:name': Concessão / manutenção de limites pré-aprovados PF
-'en:name': Concessão / manutenção de limites pré-aprovados PF
+'en:name': Consumer credit
 'pt:summary': Escreva aqui
 'en:summary': Write
 'pt:text': >-
