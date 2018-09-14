@@ -3,7 +3,7 @@ title: Cobrança e renegociação
 type: financial
 image: /media/régua-de-cobrança.png
 'pt:name': Cobrança e renegociação
-'en:name': Cobrança e renegociação
+'en:name': Collection and renegotiation
 'pt:summary': Escreva aqui
 'en:summary': Write here
 'pt:text': >-
