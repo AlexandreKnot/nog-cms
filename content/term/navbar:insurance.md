@@ -1,7 +1,6 @@
 ---
 title: 'navbar:insurance'
-pt: >-
-    navbar:insurance
-en: >-
-    navbar:insurance
+pt: Seguros
+en: Insurance
 ---
+
