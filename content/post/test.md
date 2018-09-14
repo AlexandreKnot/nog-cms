@@ -3,7 +3,7 @@ title: Prevenção a fraudes
 type: financial
 image: /media/external-integrations.png
 'pt:name': Prevenção a fraudes
-'en:name': Prevenção a fraudes
+'en:name': Fraud detection
 'pt:summary': Escreva aqui
 'en:summary': Write here
 'pt:text': >-
