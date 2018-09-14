@@ -1,7 +1,6 @@
 ---
 title: 'navbar:vertical'
-pt: >-
-    navbar:vertical
-en: >-
-    navbar:vertical
+pt: Verticais de negócios
+en: Business verticals
 ---
+
