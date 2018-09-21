@@ -1,5 +1,5 @@
 ---
-title: 4 Cobrança e renegociação
+title: 3 Cobrança e renegociação
 type: financial
 image: /media/régua-de-cobrança.png
 'pt:name': Cobrança e renegociação
