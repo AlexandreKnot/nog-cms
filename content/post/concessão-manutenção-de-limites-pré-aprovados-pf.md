@@ -33,33 +33,23 @@ image: /media/concessão-de-limites-pf.png
   example, you can:
 
 
-  `<ul>`
+  * Design credit policies (product vision or customer vision)
 
+  * Build champion and challenging strategies (A / B tests)
 
-  `<li>`Design credit policies (product vision or customer vision)
+  * Define the best approach channel for each client
 
-
-  `<li>`Build champion and challenging strategies (A / B tests)
-
-
-  `<li>`Define the best approach channel for each client
-
-
-  `<li>`Calculate the best offer by setting the installment amount and term that
+  * Calculate the best offer by setting the installment amount and term that
   meet customer needs
 
+  * Send e-mail and SMS with personalized offers, with no need for integration
+  with other systems
 
-  `<li>`Send e-mail and SMS with personalized offers, with no need for
-  integration with other systems
+  * Establish the most appropriate rate, specific to that operation
 
+  * Create triggers for product cancellation or renewal
 
-  `<li>`Establish the most appropriate rate, specific to that operation
-
-
-  `<li>`Create triggers for product cancellation or renewal
-
-
-  `<li>`... and much more!
+  * ... and much more!
 
 
   Request a demo and discover the full potential of a tool that is transforming
