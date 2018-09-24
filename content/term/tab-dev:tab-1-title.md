@@ -1,6 +1,6 @@
 ---
 title: 'tab-dev:tab-1-title'
-pt: Speed
+pt: Rapidez
 en: Speed
 ---
 
