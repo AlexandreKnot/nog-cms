@@ -1,6 +1,6 @@
 ---
 title: 'tab-dev:tab-2-title'
-pt: Elastic
+pt: Escalável
 en: Elastic
 ---
 
