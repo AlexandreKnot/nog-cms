@@ -1,6 +1,6 @@
 ---
 title: 'tab:tab-1-subtitle'
-pt: 'tab:tab-1-subtitle'
+pt: FÁCIL DE USAR! NÃO É NECESSÁRIO CONHECIMENTOS DE PROGRAMAÇÃO
 en: EASY TO USE! NO CODING KNOWLEDGE REQUIRED
 ---
 
