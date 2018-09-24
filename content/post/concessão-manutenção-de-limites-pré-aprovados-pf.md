@@ -33,7 +33,7 @@ image: /media/concessão-de-limites-pf.png
   example, you can:
 
 
-  * Design credit policies (product vision or customer vision)
+  * Design credit policies (product-centric or customer-centric)
 
   * Build champion and challenging strategies (A / B tests)
 
