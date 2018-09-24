@@ -1,6 +1,6 @@
 ---
 title: 'navbar:business'
-pt: 'navbar:business'
+pt: Negócios
 en: Business
 ---
 
