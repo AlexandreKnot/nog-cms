@@ -1,6 +1,6 @@
 ---
 title: 'footer:title3'
-pt: 'footer:title3'
+pt: Siga-nos
 en: Follow us
 ---
 
