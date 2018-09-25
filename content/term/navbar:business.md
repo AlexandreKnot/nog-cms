@@ -1,6 +1,6 @@
 ---
 title: 'navbar:business'
-pt: Negócios
-en: Business
+pt: Sou um usuário de negócios
+en: I'm a business guy
 ---
 
