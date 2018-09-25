@@ -1,6 +1,6 @@
 ---
 title: 'navbar:dev'
-pt: Desenvolvimento
-en: Development
+pt: Sou desenvolvedor
+en: I'm a developer
 ---
 
