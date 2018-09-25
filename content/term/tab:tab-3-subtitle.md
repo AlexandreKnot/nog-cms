@@ -1,6 +1,6 @@
 ---
 title: 'tab:tab-3-subtitle'
-pt: INTERFACE AMIGÁVEL
-en: ENHANCED USER EXPERIENCE
+pt: AUTONOMIA PARA USUÁRIO
+en: USER AUTONOMY
 ---
 
