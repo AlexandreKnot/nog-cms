@@ -5,7 +5,7 @@ image: /media/figura-pricing-2.bmp
 'pt:name': Precificação
 'en:name': Pricing
 'pt:summary': >-
-  Obtenha e melhor relação risco-retorno e conquiste o seu cliente oferecendo
+  Obtenha a melhor relação risco-retorno e conquiste o seu cliente oferecendo
   para ele as condições ideais para  taxa, prazo e carência para pagamento, de
   acordo com o seu perfil e histórico no mercado. Diferencie-se no mercado
   através de um _pricing_ personalizado e mostre ao seu cliente o quanto você
