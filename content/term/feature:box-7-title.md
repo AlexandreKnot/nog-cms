@@ -1,6 +1,6 @@
 ---
 title: 'feature:box-7-title'
-pt: 1 CLIQUE
-en: 1 CLICK
+pt: PUBLICAÇÃO EM 1 CLIQUE
+en: 1-CLICK PUBLISHING
 ---
 
