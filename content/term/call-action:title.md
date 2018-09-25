@@ -1,6 +1,6 @@
 ---
 title: 'call-action:title'
-pt: 'call-action:title'
-en: Join us
+pt: Cadastre-se agora!
+en: Join us!
 ---
 
