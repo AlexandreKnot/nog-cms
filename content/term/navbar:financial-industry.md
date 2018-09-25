@@ -1,6 +1,6 @@
 ---
 title: 'navbar:financial-industry'
-pt: Indústria Financeira
-en: Financial Industry
+pt: Serviços Financeiros
+en: Financial Services
 ---
 
