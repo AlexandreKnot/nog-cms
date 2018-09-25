@@ -1,6 +1,6 @@
 ---
 title: 'tab:tab-4-subtitle'
-pt: DOCUMENTAÇÃO NATIVA
+pt: NATURALMENTE DOCUMENTADA
 en: “AS-BUILT” DOCUMENTATION
 ---
 
