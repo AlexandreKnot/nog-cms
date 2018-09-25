@@ -1,8 +1,8 @@
 ---
-title: 2 Concessão / manutenção de limites pré-aprovados PF
+title: 2 Políticas de crédito
 type: financial
 image: /media/concessão-de-limites-pf.png
-'pt:name': Concessão / manutenção de limites pré-aprovados PF
+'pt:name': Políticas de crédito
 'en:name': Consumer credit
 'pt:summary': >-
   Crise? Recuperação da economia? Altos e baixos nos índices de desemprego?
