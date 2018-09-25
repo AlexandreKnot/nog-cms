@@ -1,6 +1,6 @@
 ---
 title: 'footer:title'
-pt: 'footer:title'
-en: Nogordio
+pt: Nogord.io
+en: Nogord.io
 ---
 
