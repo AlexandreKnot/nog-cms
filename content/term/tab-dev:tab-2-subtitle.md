@@ -1,6 +1,6 @@
 ---
 title: 'tab-dev:tab-2-subtitle'
-pt: Executa com o uma Função como Serviço
+pt: Executa como "Função como Serviço"/Serveless
 en: Works like a Function as a Service
 ---
 
