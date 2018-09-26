@@ -1,7 +1,8 @@
 ---
 title: 4 Pricing
 type: financial
-image: /media/figura-pricing-2.bmp
+pt:image: /media/figura-pricing-2.bmp
+en:image: /media/figura-pricing-2.bmp
 'pt:name': Precificação
 'en:name': Pricing
 'pt:summary': >-

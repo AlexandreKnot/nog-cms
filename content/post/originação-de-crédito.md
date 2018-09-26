@@ -1,7 +1,8 @@
 ---
 title: 1 Originação de crédito
 type: financial
-image: /media/originação.png
+pt:image: /media/originação.png
+en:image: /media/originação.png
 'pt:name': Originação de crédito
 'en:name': Credit Origination
 'pt:summary': >-

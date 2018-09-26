@@ -1,7 +1,8 @@
 ---
 title: 3 Cobrança e renegociação
 type: financial
-image: /media/régua-de-cobrança.png
+pt:image: /media/régua-de-cobrança.png
+en:image: /media/régua-de-cobrança.png
 'pt:name': Cobrança e renegociação
 'en:name': Collection and recovery
 'pt:summary': >-

@@ -1,7 +1,8 @@
 ---
 title: 2 Políticas de crédito
 type: financial
-image: /media/concessão-de-limites-pf.png
+pt:image: /media/concessão-de-limites-pf.png
+en:image: /media/concessão-de-limites-pf.png
 'pt:name': Políticas de crédito
 'en:name': Consumer credit
 'pt:summary': >-
