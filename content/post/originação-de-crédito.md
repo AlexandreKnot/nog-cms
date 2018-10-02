@@ -1,8 +1,8 @@
 ---
 title: 1 Originação de crédito
 type: financial
-pt:image: /media/originação.png
-en:image: /media/originação.png
+'pt:image': /media/originação.png
+'en:image': /media/origination.png
 'pt:name': Originação de crédito
 'en:name': Credit Origination
 'pt:summary': >-
@@ -56,6 +56,57 @@ en:image: /media/originação.png
 
   Solicite uma demonstração e descubra todo o potencial de uma ferramenta que
   está transformando o método de trabalho das equipes de TI e de negócio!
-'en:text': "In the \"moment of truth\", when the customer knocks on your door with a need, you want to be able to serve him quickly, so you need to access several sources of information about this client in order to be able to properly measure your risk and make a proper credit offer.\r\n\nNOGORD.IO allows greater agility in the integration with several data bureaus and allows, through mathematical or statistical functions (among others), calculate credit limits ​​(for each product, if necessary), interest rate, down payment (in case of financing an asset), in a personalized way and with easy integration to core systems. Some examples of what you can do using decision rules:\r\n\n* \rDo the client's onboarding, checking on the bureaux, the veracity of the data provided\r\n* Create an anti-fraud policy\r\n* \rCalculate the credit score\r\n* Design credit policies (product-centric or customer-centric)\r\n* \rBuild champion and challenging strategies (A / B tests)\r\n* Calculate the best offer by setting the installment amount and term that meet customer needs\r\n* \rEstablish the most appropriate rate, specific to that operation\n* ... and much more!\n\nRequest a demo and discover the full potential of a tool that is transforming the way IT and business teams work together!"
+'en:text': >-
+  In the "moment of truth", when the customer knocks on your door with a need,
+  you want to be able to serve him quickly, so you need to access several
+  sources of information about this client in order to be able to properly
+  measure your risk and make a proper credit offer.
+
+
+  NOGORD.IO allows greater agility in the integration with several data bureaus
+  and allows, through mathematical or statistical functions (among others),
+  calculate credit limits ​​(for each product, if necessary), interest rate,
+  down payment (in case of financing an asset), in a personalized way and with
+  easy integration to core systems. Some examples of what you can do using
+  decision rules:
+
+
+  * 
+
+
+  Do the client's onboarding, checking on the bureaux, the veracity of the data
+  provided
+
+
+  * Create an anti-fraud policy
+
+  * 
+
+
+  Calculate the credit score
+
+
+  * Design credit policies (product-centric or customer-centric)
+
+  * 
+
+
+  Build champion and challenging strategies (A / B tests)
+
+
+  * Calculate the best offer by setting the installment amount and term that
+  meet customer needs
+
+  * 
+
+
+  Establish the most appropriate rate, specific to that operation
+
+
+  * ... and much more!
+
+
+  Request a demo and discover the full potential of a tool that is transforming
+  the way IT and business teams work together!
 ---
 
