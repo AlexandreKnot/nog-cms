@@ -71,37 +71,21 @@ type: financial
   decision rules:
 
 
-  * 
-
-
-  Do the client's onboarding, checking on the bureaux, the veracity of the data
-  provided
-
+  * Do the client's onboarding, checking on the bureaux, the veracity of the
+  data provided
 
   * Create an anti-fraud policy
 
-  * 
-
-
-  Calculate the credit score
-
+  * Calculate the credit score
 
   * Design credit policies (product-centric or customer-centric)
 
-  * 
-
-
-  Build champion and challenging strategies (A / B tests)
-
+  * Build champion and challenging strategies (A / B tests)
 
   * Calculate the best offer by setting the installment amount and term that
   meet customer needs
 
-  * 
-
-
-  Establish the most appropriate rate, specific to that operation
-
+  * Establish the most appropriate rate, specific to that operation
 
   * ... and much more!
 
