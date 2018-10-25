@@ -1,6 +1,11 @@
 ---
 title: 'pricing:box-2-title'
-pt: 'pricing:box-2-title'
+pt: >-
+  LITE
+
+
+  Para equipes em crescimento que precisam automatizar regras de decisão para
+  dimensionar negócios
 en: |-
   LITE
 
