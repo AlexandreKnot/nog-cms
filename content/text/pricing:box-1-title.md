@@ -1,6 +1,9 @@
 ---
 title: 'pricing:box-1-title'
-pt: 'pricing:box-1-title'
+pt: |-
+  STARTUP
+
+  Para pequenas equipes que começam a automatizar suas regras de decisão
 en: |-
   STARTUP
 
