@@ -1,6 +1,11 @@
 ---
 title: 'pricing:box-3-active-items'
-pt: 'pricing:box-3-active-items'
+pt: |-
+  ·        Instancia dedicada
+
+  ·        Até 1000 regras ativas
+
+  ·        Até 1000 usuários registrados
 en: |-
   ·        Dedicated instance
 
