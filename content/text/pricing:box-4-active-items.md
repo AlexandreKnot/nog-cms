@@ -1,8 +1,13 @@
 ---
 title: 'pricing:box-4-active-items'
-pt: 'pricing:box-4-active-items'
+pt: |-
+  ·        Instancia compartilhada
+
+  ·        1 regra ativa
+
+  ·        1 usuário registrado
 en: |-
-  ·        Shared  instance
+  ·        Shared instance
 
   ·        1 active rule
 
