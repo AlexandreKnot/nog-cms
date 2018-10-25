@@ -1,6 +1,6 @@
 ---
 title: 'pricing:title'
-pt: 'pricing:title'
+pt: Preços
 en: Pricing
 ---
 
