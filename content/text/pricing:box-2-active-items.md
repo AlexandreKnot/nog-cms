@@ -1,6 +1,11 @@
 ---
 title: 'pricing:box-2-active-items'
-pt: 'pricing:box-2-active-items'
+pt: |-
+  ·        Instancia dedicada
+
+  ·        Até 15 regras ativas
+
+  ·        Até 50 usuários registrados
 en: |-
   ·        Dedicated instance
 
